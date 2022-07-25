@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 59.26px;
+      }
+    </style>
+    <filter id="filter" x="152.094" y="43.313" width="535.375" height="515.688" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="368.562" y="512.844" width="522.594" height="443.875" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="A" class="cls-1" d="M152.112,43.3V149.206l110.274,43.555,0,218.453L152.106,453.1l0,105.909,535.368-205.9V249.76ZM361.74,373.468l0-143.23,183.791,71.831Z"/>
+  <path id="M" class="cls-2" d="M368.556,956.7h82.373l48.735-280.309,93.452,280.312h74.458L761.87,676.4l47.589,280.31h81.7l-74.45-443.85H734.443L630.613,822.435,527.728,512.856l-82.317,0Z"/>
+  <path id="Line_1" data-name="Line 1" class="cls-3" d="M40.434,73.883h1.152v851.1H40.434V73.883Z"/>
+  <path id="Line_1-2" data-name="Line 1" class="cls-3" d="M958.377,74.914h1.154v852.1h-1.154V74.914Z"/>
+  <path id="Line_1-3" data-name="Line 1" class="cls-3" d="M40.484,925.141V924.8H291.591v0.34H40.484Z"/>
+  <path id="Line_1-4" data-name="Line 1" class="cls-3" d="M517.456,73.743v-0.6H958.718v0.6H517.456Z"/>
+</svg>
